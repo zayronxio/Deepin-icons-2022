@@ -17,17 +17,73 @@
    sodipodi:docname="wmplayer.svg">
   <defs
      id="defs4234">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1052">
+      <stop
+         style="stop-color:#4a6efa;stop-opacity:0.99607843"
+         offset="0"
+         id="stop1048" />
+      <stop
+         style="stop-color:#6fb99d;stop-opacity:1"
+         offset="0.39383236"
+         id="stop1056" />
+      <stop
+         style="stop-color:#f9e09f;stop-opacity:1"
+         offset="0.81365085"
+         id="stop1058" />
+      <stop
+         style="stop-color:#f7c778;stop-opacity:1"
+         offset="1"
+         id="stop1050" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1044">
+      <stop
+         style="stop-color:#fae8ab;stop-opacity:1;"
+         offset="0"
+         id="stop1040" />
+      <stop
+         style="stop-color:#f5b65d;stop-opacity:1"
+         offset="1"
+         id="stop1042" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1036">
+      <stop
+         style="stop-color:#59a6a6;stop-opacity:1;"
+         offset="0"
+         id="stop1032" />
+      <stop
+         style="stop-color:#a3e689;stop-opacity:1"
+         offset="1"
+         id="stop1034" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1028">
+      <stop
+         style="stop-color:#4a73fa;stop-opacity:1;"
+         offset="0"
+         id="stop1024" />
+      <stop
+         style="stop-color:#4c4afa;stop-opacity:0.95362383"
+         offset="1"
+         id="stop1026" />
+    </linearGradient>
     <color-profile
        xlink:href="file:///usr/share/color/icc/colord/NTSC-RGB.icc"
-       id="color-profile3"
+       id="color-profile2"
        name="NTSC-RGB" />
     <color-profile
        xlink:href="file:///usr/share/color/icc/colord/AppleRGB.icc"
-       id="color-profile5"
+       id="color-profile4"
        name="Apple-RGB" />
     <color-profile
        xlink:href="file:///usr/share/color/icc/colord/AdobeRGB1998.icc"
-       id="color-profile7"
+       id="color-profile6"
        name="Compatible-with-Adobe-RGB--1998-" />
     <radialGradient
        id="radial0"
@@ -962,6 +1018,42 @@
          stop-color="#0a8ed3"
          offset="1" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1028"
+       id="linearGradient1030"
+       x1="0.9464283"
+       y1="1028.804"
+       x2="45.946428"
+       y2="1028.804"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1036"
+       id="linearGradient1038"
+       x1="16.333984"
+       y1="24.441406"
+       x2="30.666016"
+       y2="24.441406"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1044"
+       id="linearGradient1046"
+       x1="30.666016"
+       y1="24.439453"
+       x2="45.947266"
+       y2="24.439453"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1052"
+       id="linearGradient1054"
+       x1="7.2153625"
+       y1="1028.804"
+       x2="39.677494"
+       y2="1028.804"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -971,14 +1063,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568545"
-     inkscape:cx="-30.472735"
-     inkscape:cy="40.899705"
+     inkscape:cx="-68.224672"
+     inkscape:cy="40.932146"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1031"
+     inkscape:window-height="1024"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -995,7 +1087,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1005,27 +1097,21 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <circle
-       style="opacity:1;fill:#97adc7;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       style="opacity:1;fill:url(#linearGradient1030);fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="path4782"
        cx="23.446428"
        cy="1028.804"
        r="22.5" />
     <path
-       style="opacity:1;fill:#e5f1f1;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       style="opacity:1;fill:url(#linearGradient1038);fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        d="M 23.447266 1.9414062 A 22.5 22.5 0 0 0 16.333984 3.125 L 16.333984 45.767578 A 22.5 22.5 0 0 0 23.447266 46.941406 A 22.5 22.5 0 0 0 30.666016 45.722656 L 30.666016 3.15625 A 22.5 22.5 0 0 0 23.447266 1.9414062 z "
        transform="translate(0,1004.3622)"
        id="circle1009" />
     <path
-       style="opacity:1;fill:#f4bfb1;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       style="opacity:1;fill:url(#linearGradient1046);fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        d="M 30.666016 3.15625 L 30.666016 45.722656 A 22.5 22.5 0 0 0 45.947266 24.441406 A 22.5 22.5 0 0 0 30.666016 3.15625 z "
        transform="translate(0,1004.3622)"
        id="circle1011" />
-    <circle
-       style="opacity:1;fill:#ffffff;fill-opacity:0.22053231;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="path4340"
-       cx="23.446428"
-       cy="1028.804"
-       r="19.910715" />
     <path
        inkscape:connector-curvature="0"
        style="fill:url(#a);stroke-width:0.25064582"
@@ -1037,14 +1123,20 @@
        d="m -72.306311,1028.4931 q 0.778943,5.3413 -0.765805,9.6703 -1.548325,4.3044 -5.148007,7.0063 -3.599682,2.7019 -8.71347,3.4477 l -13.210627,1.9265 -5.03455,-34.5222 11.681501,-1.7036 q 8.974198,-1.3087 14.480476,2.3923 5.527772,3.6728 6.710482,11.7827 z m -4.812979,0.7019 q -0.936162,-6.4193 -5.035416,-9.2495 -4.077761,-2.8584 -10.896145,-1.8641 l -6.793317,0.9907 3.941172,27.0249 7.871224,-1.1479 q 3.885477,-0.5666 6.575412,-2.6604 2.715003,-2.0975 3.836899,-5.464 1.121898,-3.3664 0.500171,-7.6297 z"
        inkscape:connector-curvature="0" />
     <circle
-       style="fill:#ffffff;fill-opacity:0.992157;stroke-width:1.72397"
+       style="fill:url(#linearGradient1054);fill-opacity:1;stroke-width:1.72397"
        id="circle1656"
+       cx="23.446428"
+       cy="1028.804"
+       r="16.231066" />
+    <circle
+       style="fill:#ffffff;fill-opacity:0.52396429;stroke-width:1.72397"
+       id="circle1060"
        cx="23.446428"
        cy="1028.804"
        r="16.231066" />
     <path
        id="path856"
-       style="fill:#f4bfb1;fill-opacity:1;stroke:none;stroke-width:10.0606;stroke-linecap:square;stroke-linejoin:round"
+       style="fill:#4a4a4a;fill-opacity:1;stroke:none;stroke-width:10.0606;stroke-linecap:square;stroke-linejoin:round"
        d="m 22.802866,1018.7218 v 3.9839 7.0543 a 4.7973868,4.7973868 0 0 0 -2.065625,-0.4692 4.7973868,4.7973868 0 0 0 -4.797649,4.7976 4.7973868,4.7973868 0 0 0 4.797649,4.7977 4.7973868,4.7973868 0 0 0 4.797649,-4.7977 4.7973868,4.7973868 0 0 0 -0.01453,-0.3674 v -11.0153 h 5.432904 v -3.9839 z" />
   </g>
 </svg>
