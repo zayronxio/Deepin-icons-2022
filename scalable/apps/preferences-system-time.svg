@@ -343,7 +343,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -452,7 +452,7 @@
        d="M 31.917969 18.835938 A 13.462758 13.485931 0 0 0 31.142578 18.871094 A 12.384131 12.384131 0 0 1 31.285156 18.869141 A 12.384131 12.384131 0 0 1 43.667969 31.253906 A 12.384131 12.384131 0 0 1 31.285156 43.638672 A 12.384131 12.384131 0 0 1 18.900391 31.253906 A 12.384131 12.384131 0 0 1 19.3125 28.089844 A 13.462758 13.485931 0 0 0 18.630859 32.322266 A 13.462758 13.485931 0 0 0 32.09375 45.806641 A 13.462758 13.485931 0 0 0 45.556641 32.322266 A 13.462758 13.485931 0 0 0 32.09375 18.835938 A 13.462758 13.485931 0 0 0 31.917969 18.835938 z "
        transform="scale(0.26458333)" />
     <circle
-       style="fill:#ffffff;fill-opacity:0.494273;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#9d63f9;fill-opacity:0.32069749;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle1193"
        cx="8.2772999"
        cy="8.2692213"
