@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -15,22 +13,46 @@
    viewBox="0 0 48 48.000001"
    id="svg4232"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="com.github.artemanufrij.translit.svg">
   <defs
      id="defs4234">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1270">
+      <stop
+         style="stop-color:#fffcfc;stop-opacity:1;"
+         offset="0"
+         id="stop1266" />
+      <stop
+         style="stop-color:#fffcfc;stop-opacity:0;"
+         offset="1"
+         id="stop1268" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1030">
+      <stop
+         style="stop-color:#642eec;stop-opacity:1;"
+         offset="0"
+         id="stop1026" />
+      <stop
+         style="stop-color:#4fa0ea;stop-opacity:1"
+         offset="1"
+         id="stop1028" />
+    </linearGradient>
     <color-profile
-       name="NTSC-RGB"
-       xlink:href="/usr/share/color/icc/colord/NTSC-RGB.icc"
-       id="color-profile3" />
+       xlink:href="file:///usr/share/color/icc/colord/NTSC-RGB.icc"
+       id="color-profile2"
+       name="NTSC-RGB" />
     <color-profile
-       name="Apple-RGB"
-       xlink:href="/usr/share/color/icc/colord/AppleRGB.icc"
-       id="color-profile5" />
+       xlink:href="file:///usr/share/color/icc/colord/AppleRGB.icc"
+       id="color-profile4"
+       name="Apple-RGB" />
     <color-profile
-       name="Compatible-with-Adobe-RGB--1998-"
-       xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
-       id="color-profile7" />
+       xlink:href="file:///usr/share/color/icc/colord/AdobeRGB1998.icc"
+       id="color-profile6"
+       name="Compatible-with-Adobe-RGB--1998-" />
     <radialGradient
        id="radial0"
        gradientUnits="userSpaceOnUse"
@@ -964,6 +986,24 @@
          stop-color="#0a8ed3"
          offset="1" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1030"
+       id="linearGradient1032"
+       x1="16"
+       y1="1028.804"
+       x2="29"
+       y2="1028.804"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1270"
+       id="linearGradient1272"
+       x1="-34"
+       y1="-5"
+       x2="26"
+       y2="29"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -972,18 +1012,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="32.361409"
-     inkscape:cy="30.533766"
+     inkscape:zoom="4.0000002"
+     inkscape:cx="-67.183052"
+     inkscape:cy="-12.878833"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1028"
      inkscape:window-x="0"
-     inkscape:window-y="30"
-     inkscape:window-maximized="1">
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid4780" />
@@ -1006,19 +1047,25 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <circle
-       style="opacity:1;fill:#9897c7;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       style="opacity:1;fill:#642eec;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="path4782"
        cx="23.446428"
        cy="1028.804"
        r="22.5" />
     <path
-       style="opacity:1;fill:#85a7d9;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       style="opacity:1;fill:#4fa0ea;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        d="m 45.946428,1028.804 c 0,12.4264 -10.073593,22.5 -22.5,22.5 v -45 c 12.426407,0 22.5,10.0736 22.5,22.5 z"
        id="circle1081"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sccs" />
     <circle
-       style="opacity:1;fill:#ffffff;fill-opacity:0.22053231;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       style="opacity:1;fill:url(#linearGradient1032);fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="circle1024"
+       cx="23.446428"
+       cy="1028.804"
+       r="19.910715" />
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:0.41475642;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="path4340"
        cx="23.446428"
        cy="1028.804"
@@ -1040,7 +1087,7 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:20.03395081px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.50084877"
+       style="font-style:normal;font-weight:normal;font-size:20.034px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.500849"
        x="10.337589"
        y="859.37915"
        id="text1079"
@@ -1049,6 +1096,21 @@
          id="tspan1077"
          x="10.337589"
          y="859.37915"
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.50084877">D</tspan></text>
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.500849">D</tspan></text>
+    <path
+       id="circle1034"
+       style="opacity:1;fill:#15053b;fill-opacity:0.16859;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 35.744141 8.7851562 A 19.910715 19.910715 0 0 1 43.357422 24.441406 A 19.910715 19.910715 0 0 1 23.447266 44.351562 A 19.910715 19.910715 0 0 1 12.060547 40.773438 A 19.910715 19.910715 0 0 0 24.369141 45.035156 A 19.910715 19.910715 0 0 0 44.28125 25.125 A 19.910715 19.910715 0 0 0 35.744141 8.7851562 z "
+       transform="translate(0,1004.3622)" />
+    <path
+       id="circle1036"
+       style="opacity:1;fill:#15053b;fill-opacity:0.16859;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 4.46875 18.421875 A 19.910715 19.910715 0 0 0 3.0097656 25.898438 A 19.910715 19.910715 0 0 0 22.919922 45.808594 A 19.910715 19.910715 0 0 0 41.898438 31.917969 A 19.910715 19.910715 0 0 1 23.447266 44.351562 A 19.910715 19.910715 0 0 1 3.5351562 24.441406 A 19.910715 19.910715 0 0 1 4.46875 18.421875 z "
+       transform="translate(0,1004.3622)" />
+    <path
+       id="circle1261"
+       style="opacity:1;fill:url(#linearGradient1272);fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 23.314453 4.53125 A 19.910715 19.910715 0 0 0 3.5351562 24.441406 A 19.910715 19.910715 0 0 0 12.091797 40.796875 A 19.910715 19.910715 0 0 1 4.25 24.960938 A 19.910715 19.910715 0 0 1 24.160156 5.0507812 A 19.910715 19.910715 0 0 1 35.501953 8.5957031 A 19.910715 19.910715 0 0 0 23.447266 4.53125 A 19.910715 19.910715 0 0 0 23.314453 4.53125 z "
+       transform="translate(0,1004.3622)" />
   </g>
 </svg>

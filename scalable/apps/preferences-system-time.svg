@@ -14,7 +14,7 @@
    version="1.1"
    id="svg951"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="clock.svg">
+   sodipodi:docname="alarm.svg">
   <defs
      id="defs945">
     <linearGradient
@@ -322,9 +322,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="-80.91622"
-     inkscape:cy="21.303416"
+     inkscape:zoom="11.2"
+     inkscape:cx="62.447258"
+     inkscape:cy="27.58199"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -457,5 +457,11 @@
        cx="8.2772999"
        cy="8.2692213"
        r="3.2766347" />
+    <circle
+       style="opacity:0.757407;fill:#ffffff;fill-opacity:0.995614;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round"
+       id="path915"
+       cx="8.2773008"
+       cy="8.2692213"
+       r="1.4331566" />
   </g>
 </svg>
